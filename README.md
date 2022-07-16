@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 -  Solution URL: [Solution](https://github.com/Dike-Code/Testimonial-Grid-Section)
--  Live Site URL: [Add live site URL here](https://dike-code.github.io/e-commerce-hompage/)
+-  Live Site URL: [Live](https://dike-code.github.io/e-commerce-hompage/)
 
 ## My process
 
@@ -69,7 +69,7 @@ All, Practice... Practice and Practice.
 
 -  Frontend Mentor - [@Dike-Code](https://www.frontendmentor.io/profile/Dike-Code)
 
--  Github - [Dike.O.Clinton](https://www.github/Dike-Code)
+-  Github - [Dike.O.Clinton](https://github.com/Dike-Code)
 
 ## Acknowledgments
 
