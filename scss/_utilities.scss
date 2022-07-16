@@ -1,0 +1,38 @@
+/** @format */
+
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@500;600;700&display=swap');
+
+// Primary colors
+$Dark-Gray: hsl(0, 0%, 63%);
+$Black: hsl(0, 0%, 0%);
+$White: hsl(0, 0%, 100%);
+$Very-Dark-Gray: hsl(0, 0%, 27%);
+
+// Typography:
+$body-font: 14px;
+$font-family: 'League Spartan', Tahoma, Geneva, Verdana, sans-serif;
+
+// Viewports:
+$Mobile: 375px;
+$Desktop: 1440px;
+
+.container {
+   width: 90%;
+   padding: 30px;
+   margin: auto;
+}
+
+a {
+   text-decoration: none;
+   color: $White;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+   margin: 10px auto;
+}
