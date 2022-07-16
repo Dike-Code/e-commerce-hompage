@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 -  Solution URL: [Solution](https://github.com/Dike-Code/Testimonial-Grid-Section)
--  Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-  Live Site URL: [Add live site URL here](https://dike-code.github.io/e-commerce-hompage/)
 
 ## My process
 
